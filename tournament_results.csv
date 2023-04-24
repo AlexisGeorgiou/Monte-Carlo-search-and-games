@@ -1,6 +1,0 @@
-,random_move,flatMC,UCB,BestMoveUCT,SequentialHalving
-random_move,,"[5, 0]","[20, 1]","[3, 1]","[6, 1]"
-flatMC,"[95, 0]",,"[63, 0]","[25, 2]","[10, 1]"
-UCB,"[80, 1]","[37, 0]",,"[27, 0]","[7, 0]"
-BestMoveUCT,"[97, 1]","[75, 2]","[73, 0]",,"[6, 0]"
-SequentialHalving,"[94, 1]","[90, 1]","[93, 0]","[94, 0]",
