@@ -1,1 +1,1 @@
-# monte-carlo-methods
+# Monte-Carlo search and games
